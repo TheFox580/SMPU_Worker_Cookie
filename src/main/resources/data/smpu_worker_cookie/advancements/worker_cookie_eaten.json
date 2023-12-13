@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "smpu_worker_cookie:worker_cookie"
+    },
+    "title": {
+      "translate": "advancement.smpu_worker_cookie.worker_cookie_eaten"
+    },
+    "description": {
+      "translate": "advancement.smpu_worker_cookie.worker_cookie_eaten.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "smpu_worker_cookie:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "smpu_worker_cookie:worker_cookie"
+          ]
+        }
+      }
+    }
+  }
+}

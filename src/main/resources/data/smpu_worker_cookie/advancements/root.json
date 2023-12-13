@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "smpu_worker_cookie:worker_cookie"
+    },
+    "title": {
+      "translate": "advancement.smpu_worker_cookie.root"
+    },
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "smpu_worker_cookie:textures/item/worker_cookie_background_advancement.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "item": {
+          "items": [
+            "smpu_worker_cookie:worker_cookie"
+          ]
+        }
+      }
+    }
+  }
+}
