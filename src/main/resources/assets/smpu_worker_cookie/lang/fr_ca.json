@@ -1,0 +1,9 @@
+{
+  "item.smpu_worker_cookie.worker_cookie": "Cookie de Travailleur",
+
+  "creativetab.smpu_worker_cookie_tab": "SMPU Cookie de Travailleur",
+
+  "advancement.smpu_worker_cookie.root":"SMPU Cookie de Travailleur",
+  "advancement.smpu_worker_cookie.worker_cookie_eaten":"Travaille, travaille, travaille, travaille, travaille, travaille",
+  "advancement.smpu_worker_cookie.worker_cookie_eaten.desc":"Mettez-vous au travail."
+}

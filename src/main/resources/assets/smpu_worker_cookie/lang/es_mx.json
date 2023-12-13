@@ -1,0 +1,9 @@
+{
+  "item.smpu_worker_cookie.worker_cookie": "Galleta de Trabajador",
+
+  "creativetab.smpu_worker_cookie_tab": "SMPU Galleta de Trabajador",
+
+  "advancement.smpu_worker_cookie.root":"SMPU Galleta de Trabajador",
+  "advancement.smpu_worker_cookie.worker_cookie_eaten":"Trabajo, trabajo, trabajo, trabajo, trabajo, trabajo",
+  "advancement.smpu_worker_cookie.worker_cookie_eaten.desc":"Ponte a trabajar."
+}
