@@ -21,6 +21,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.thefox580.smpu_worker_cookie.item.custom.ModItems;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -45,7 +46,11 @@ public class SMPUnityWorkerCookie {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
+        if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS){
+            event.accept(ModItems.WORKER_COOKIE);
+        }
     }
+
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
     }
