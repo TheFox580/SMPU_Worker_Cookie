@@ -1,0 +1,10 @@
+{
+  "item.smpu.worker_snack": "Merienda del trabajador",
+  "item.smpu.cerdu_plush": "Cerdu Felpa",
+
+  "creativetab.smpu_tab": "SMP Unity",
+
+  "advancement.smpu.root":"SMP Unity Merienda del trabajador",
+  "advancement.smpu.worker_snack_eaten":"Trabajar, trabajar, trabajar, trabajar, trabajar, trabajar",
+  "advancement.smpu.worker_snack_eaten.desc":"Ponte a trabajar."
+}

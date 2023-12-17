@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "smpu:worker_snack"
+    },
+    "title": {
+      "translate": "advancement.smpu.root"
+    },
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "smpu:textures/item/worker_snack_background_advancement.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "item": {
+          "items": [
+            "smpu:worker_snack"
+          ]
+        }
+      }
+    }
+  }
+}
