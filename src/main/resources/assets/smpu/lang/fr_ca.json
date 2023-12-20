@@ -1,10 +1,14 @@
 {
   "item.smpu.worker_snack": "Collation de Travailleur",
   "item.smpu.cerdu_plush": "Peluche Cerdu",
+  "item.smpu.golden_melon": "Tranche de Melon d'eau Dorée",
 
   "creativetab.smpu_tab": "SMP Unity",
 
   "advancement.smpu.root":"SMP Unity : Progrès",
+
   "advancement.smpu.worker_snack_eaten":"Travaille, travaille, travaille, travaille, travaille, travaille",
-  "advancement.smpu.worker_snack_eaten.desc":"Travaillez."
+  "advancement.smpu.worker_snack_eaten.desc":"Travaillez.",
+
+  "advancement.smpu.get_cerdu_plush":"GYAAAAAATT"
 }

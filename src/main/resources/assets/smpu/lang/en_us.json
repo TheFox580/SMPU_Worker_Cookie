@@ -1,10 +1,14 @@
 {
   "item.smpu.worker_snack": "Worker Snack",
   "item.smpu.cerdu_plush": "Cerdu Plush",
+  "item.smpu.golden_melon": "Golden Melon Slice",
 
   "creativetab.smpu_tab": "SMP Unity",
 
   "advancement.smpu.root":"SMP Unity : Advancements",
+
   "advancement.smpu.worker_snack_eaten":"Work, work, work, work, work, work",
-  "advancement.smpu.worker_snack_eaten.desc":"Get to work."
+  "advancement.smpu.worker_snack_eaten.desc":"Get to work.",
+
+  "advancement.smpu.get_cerdu_plush":"GYAAAAAATT"
 }

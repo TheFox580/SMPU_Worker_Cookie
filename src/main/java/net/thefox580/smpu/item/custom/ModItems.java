@@ -17,6 +17,9 @@ public class ModItems {
     public static final RegistryObject<Item> CERDU_PLUSH = ITEMS.register("cerdu_plush",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> GOLDEN_MELON = ITEMS.register("golden_melon",
+            () -> new Item(new Item.Properties().food(ModFood.GOLDEN_MELON)));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }

@@ -1,10 +1,14 @@
 {
   "item.smpu.worker_snack": "Merienda del trabajador",
   "item.smpu.cerdu_plush": "Cerdu Felpa",
+  "item.smpu.golden_melon": "Rebanada de Sandía Dorada",
 
   "creativetab.smpu_tab": "SMP Unity",
 
   "advancement.smpu.root":"SMP Unity : Progresos",
+
   "advancement.smpu.worker_snack_eaten":"Trabajar, trabajar, trabajar, trabajar, trabajar, trabajar",
-  "advancement.smpu.worker_snack_eaten.desc":"Ponte a trabajar."
+  "advancement.smpu.worker_snack_eaten.desc":"Ponte a trabajar.",
+
+  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT"
 }

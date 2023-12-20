@@ -19,6 +19,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.WORKER_SNACK.get());
                         output.accept(ModItems.CERDU_PLUSH.get());
+                        output.accept(ModItems.GOLDEN_MELON.get());
                     })
                     .build());
 
