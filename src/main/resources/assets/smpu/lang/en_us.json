@@ -4,7 +4,7 @@
 
   "creativetab.smpu_tab": "SMP Unity",
 
-  "advancement.smpu.root":"SMP Unity Worker Snack",
+  "advancement.smpu.root":"SMP Unity : Advancements",
   "advancement.smpu.worker_snack_eaten":"Work, work, work, work, work, work",
   "advancement.smpu.worker_snack_eaten.desc":"Get to work."
 }
