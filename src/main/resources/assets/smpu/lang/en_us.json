@@ -2,6 +2,10 @@
   "item.smpu.worker_snack": "Worker Snack",
   "item.smpu.cerdu_plush": "Cerdu Plush",
   "item.smpu.golden_melon": "Golden Melon Slice",
+  "item.smpu.train_ticket": "Train Ticket",
+  "item.smpu.blood_amethyst_shard": "Blood Amethyst Shard",
+
+  "block.smpu.blood_amethyst_block": "Blood Amethyst Block",
 
   "creativetab.smpu_tab": "SMP Unity",
 

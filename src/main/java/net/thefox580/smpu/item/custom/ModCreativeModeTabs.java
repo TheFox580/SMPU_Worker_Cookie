@@ -20,6 +20,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.WORKER_SNACK.get());
                         output.accept(ModItems.CERDU_PLUSH.get());
                         output.accept(ModItems.GOLDEN_MELON.get());
+                        output.accept(ModItems.TRAIN_TICKET.get());
+                        output.accept(ModItems.BLOOD_AMETHYST_SHARD.get());
+                        output.accept(ModBlocks.BLOOD_AMETHYST_BLOCK.get());
                     })
                     .build());
 

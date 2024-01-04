@@ -11,6 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.thefox580.smpu.item.custom.ModBlocks;
 import net.thefox580.smpu.item.custom.ModCreativeModeTabs;
 import net.thefox580.smpu.item.custom.ModItems;
 import org.slf4j.Logger;
@@ -28,6 +29,7 @@ public class SMPUnity {
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

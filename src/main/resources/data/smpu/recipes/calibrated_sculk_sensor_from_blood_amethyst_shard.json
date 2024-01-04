@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " s ",
+    "sSs",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "s": {
+      "item": "smpu:blood_amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:calibrated_sculk_sensor"
+  }
+}

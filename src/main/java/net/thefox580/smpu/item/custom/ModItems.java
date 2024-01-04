@@ -20,6 +20,12 @@ public class ModItems {
     public static final RegistryObject<Item> GOLDEN_MELON = ITEMS.register("golden_melon",
             () -> new Item(new Item.Properties().food(ModFood.GOLDEN_MELON)));
 
+    public static final RegistryObject<Item> TRAIN_TICKET = ITEMS.register("train_ticket",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> BLOOD_AMETHYST_SHARD = ITEMS.register("blood_amethyst_shard",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " s ",
+    "sGs",
+    " s "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "s": {
+      "item": "smpu:blood_amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:tinted_glass",
+    "count": 2
+  }
+}
