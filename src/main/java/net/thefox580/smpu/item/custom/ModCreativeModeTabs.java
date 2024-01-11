@@ -23,6 +23,8 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.TRAIN_TICKET.get());
                         output.accept(ModItems.BLOOD_AMETHYST_SHARD.get());
                         output.accept(ModBlocks.BLOOD_AMETHYST_BLOCK.get());
+                        output.accept(ModItems.KNOCKBACK_HAMMER.get());
+                        output.accept(ModItems.XP_PLUSH.get());
                     })
                     .build());
 

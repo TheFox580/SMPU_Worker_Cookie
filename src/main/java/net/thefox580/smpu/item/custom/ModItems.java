@@ -26,6 +26,12 @@ public class ModItems {
     public static final RegistryObject<Item> BLOOD_AMETHYST_SHARD = ITEMS.register("blood_amethyst_shard",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> KNOCKBACK_HAMMER = ITEMS.register("knockback_hammer",
+            () -> new Item(new Item.Properties()));
+    
+    public static final RegistryObject<Item> XP_PLUSH = ITEMS.register("xp_plush",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }
