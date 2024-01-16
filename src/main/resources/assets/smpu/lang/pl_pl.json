@@ -10,8 +10,8 @@
   "block.smpu.blood_amethyst_block": "Blok Krwawego Ametystu",
 
   "item.minecraft.potion.effect.worker_boost": "Wzmocnienie pracownika",
-  "item.minecraft.splash.effect.worker_boost": "Wzmocnienie Robotnika Splash",
-  "item.minecraft.lingering.effect.worker_boost": "Zwiększenie stałego pracownika",
+  "item.minecraft.splash_potion.effect.worker_boost": "Wzmocnienie Robotnika Splash",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Zwiększenie stałego pracownika",
 
   "creativetab.smpu_tab": "SMP Unity",
 

@@ -10,8 +10,8 @@
   "block.smpu.blood_amethyst_block": "Bloco de Ametista Sanguínea",
 
   "item.minecraft.potion.effect.worker_boost": "Impulso do Trabalhador",
-  "item.minecraft.splash.effect.worker_boost": "Impulso do Trabalhador Inicial",
-  "item.minecraft.lingering.effect.worker_boost": "Impulso Persistente do Trabalhador",
+  "item.minecraft.splash_potion.effect.worker_boost": "Impulso do Trabalhador Inicial",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Impulso Persistente do Trabalhador",
 
   "creativetab.smpu_tab": "SMP Unity",
 

@@ -10,8 +10,8 @@
   "block.smpu.blood_amethyst_block": "Bloque de Amatista de Sangre",
 
   "item.minecraft.potion.effect.worker_boost": "Trabajador Boost",
-  "item.minecraft.splash.effect.worker_boost": "Trabajador Boost Arrojadiza",
-  "item.minecraft.lingering.effect.worker_boost": "Trabajador Boost Persistente",
+  "item.minecraft.splash_potion.effect.worker_boost": "Trabajador Boost Arrojadiza",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Trabajador Boost Persistente",
 
   "creativetab.smpu_tab": "SMP Unity",
 

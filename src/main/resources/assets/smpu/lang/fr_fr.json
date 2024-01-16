@@ -10,8 +10,8 @@
   "block.smpu.blood_amethyst_block": "Bloc d'Améthyste Sanglant",
 
   "item.minecraft.potion.effect.worker_boost": "Boost de Travailleur",
-  "item.minecraft.splash.effect.worker_boost": "Boost de Travailleur Jetable",
-  "item.minecraft.lingering.effect.worker_boost": "Boost de Travailleur Persistant",
+  "item.minecraft.splash_potion.effect.worker_boost": "Boost de Travailleur Jetable",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Boost de Travailleur Persistant",
 
   "creativetab.smpu_tab": "SMP Unity",
 
