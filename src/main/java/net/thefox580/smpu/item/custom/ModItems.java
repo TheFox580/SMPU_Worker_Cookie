@@ -1,6 +1,7 @@
 package net.thefox580.smpu.item.custom;
 
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -25,12 +26,13 @@ public class ModItems {
 
     public static final RegistryObject<Item> BLOOD_AMETHYST_SHARD = ITEMS.register("blood_amethyst_shard",
             () -> new Item(new Item.Properties()));
-
-    public static final RegistryObject<Item> KNOCKBACK_HAMMER = ITEMS.register("knockback_hammer",
-            () -> new Item(new Item.Properties()));
     
     public static final RegistryObject<Item> XP_PLUSH = ITEMS.register("xp_plush",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> KNOCKBACK_HAMMER = ITEMS.register("knockback_hammer",
+            () -> new KnockbackHammerItem(Tiers.WOOD, 0, 0F,
+                    new Item.Properties()));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

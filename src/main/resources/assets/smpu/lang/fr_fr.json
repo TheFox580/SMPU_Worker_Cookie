@@ -4,15 +4,21 @@
   "item.smpu.golden_melon": "Tranche de Pastèque Dorée",
   "item.smpu.train_ticket": "Billet de Train",
   "item.smpu.blood_amethyst_shard": "Éclat d'Améthyste Sanglant",
+  "item.smpu.knockback_hammer": "Marteau de Recul",
+  "item.smpu.xp_plush": "Peluche d'XP",
 
   "block.smpu.blood_amethyst_block": "Bloc d'Améthyste Sanglant",
 
+  "item.minecraft.potion.effect.worker_boost": "Boost de Travailleur",
+  "item.minecraft.splash.effect.worker_boost": "Boost de Travailleur Jetable",
+  "item.minecraft.lingering.effect.worker_boost": "Boost de Travailleur Persistant",
+
   "creativetab.smpu_tab": "SMP Unity",
 
-  "advancement.smpu.root":"SMP Unity : Progrès",
+  "advancement.smpu.root": "SMP Unity : Progrès",
 
-  "advancement.smpu.worker_snack_eaten":"Travaille, travaille, travaille, travaille, travaille, travaille",
-  "advancement.smpu.worker_snack_eaten.desc":"Travaillez.",
+  "advancement.smpu.worker_snack_eaten": "Travaille, travaille, travaille, travaille, travaille, travaille",
+  "advancement.smpu.worker_snack_eaten.desc": "Travaillez.",
 
-  "advancement.smpu.get_cerdu_plush":"GYAAAAAATT"
+  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT"
 }

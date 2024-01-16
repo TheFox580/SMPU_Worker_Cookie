@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "",
+    ""
+  ],
+  "key": {
+    " ": {
+      "item": "smpu:blood_amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "smpu:worker_snack"
+  }
+}
