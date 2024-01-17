@@ -2,5 +2,14 @@
   "parent": "item/generated",
   "textures": {
     "layer0": "smpu:item/knockback_hammer"
+  },
+  "display": {
+
+    "thirdperson_righthand": {
+      "rotation": [90, 270, 90],
+      "translation": [0, 2.5, 4],
+      "scale": [0.75, 0.75, 0.75]
+    }
+
   }
 }
