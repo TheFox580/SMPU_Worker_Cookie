@@ -34,6 +34,9 @@ public class ModItems {
             () -> new KnockbackHammerItem(Tiers.WOOD, 0, 0F,
                     new Item.Properties()));
 
+    public static final RegistryObject<Item> COCAIN = ITEMS.register("cocain",
+            () -> new Cocain(new Item.Properties().food(ModFood.COCAIN)));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }

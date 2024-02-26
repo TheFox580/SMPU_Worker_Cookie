@@ -6,6 +6,7 @@
   "item.smpu.blood_amethyst_shard": "Fragmento de Ametista Sanguínea",
   "item.smpu.knockback_hammer": "Martelo de repulsão",
   "item.smpu.xp_plush": "Pelúcia XP",
+  "item.smpu.cocain": "Cocaína em pó",
 
   "block.smpu.blood_amethyst_block": "Bloco de Ametista Sanguínea",
 
@@ -20,5 +21,7 @@
   "advancement.smpu.worker_snack_eaten": "Trabalhar, trabalhar, trabalhar, trabalhar, trabalhar, trabalhar",
   "advancement.smpu.worker_snack_eaten.desc": "Ir trabalhar.",
 
-  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT"
+  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
+
+  "sounds.smpu.cocain_sniff": "Cheirando cocaína"
 }

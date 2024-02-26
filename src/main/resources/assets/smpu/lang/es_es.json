@@ -6,6 +6,7 @@
   "item.smpu.blood_amethyst_shard": "Fragmento de Amatista de Sangre",
   "item.smpu.knockback_hammer": "Martillo de Empujee",
   "item.smpu.xp_plush": "XP Felpa",
+  "item.smpu.cocain": "Cocaína en polvo",
 
   "block.smpu.blood_amethyst_block": "Bloque de Amatista de Sangre",
 
@@ -20,5 +21,7 @@
   "advancement.smpu.worker_snack_eaten": "Trabajar, trabajar, trabajar, trabajar, trabajar, trabajar",
   "advancement.smpu.worker_snack_eaten.desc": "Ponte a trabajar.",
 
-  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT"
+  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
+
+  "sounds.smpu.cocain_sniff": "Esnifando cocaína"
 }

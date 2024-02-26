@@ -15,6 +15,7 @@ import net.thefox580.smpu.item.custom.ModBlocks;
 import net.thefox580.smpu.item.custom.ModCreativeModeTabs;
 import net.thefox580.smpu.item.custom.ModItems;
 import net.thefox580.smpu.item.custom.ModPotions;
+import net.thefox580.smpu.sound.ModSounds;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -32,6 +33,7 @@ public class SMPUnity {
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         ModPotions.register(modEventBus);
+        ModSounds.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

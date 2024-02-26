@@ -25,6 +25,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.BLOOD_AMETHYST_BLOCK.get());
                         output.accept(ModItems.KNOCKBACK_HAMMER.get());
                         output.accept(ModItems.XP_PLUSH.get());
+                        output.accept(ModItems.COCAIN.get());
                     })
                     .build());
 
