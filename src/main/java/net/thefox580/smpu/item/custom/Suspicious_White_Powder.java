@@ -6,8 +6,8 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.context.UseOnContext;
 import net.thefox580.smpu.sound.ModSounds;
 
-public class Cocain extends Item {
-    public Cocain(Properties pProperties) {
+public class Suspicious_White_Powder extends Item {
+    public Suspicious_White_Powder(Properties pProperties) {
         super(pProperties);
     }
 
@@ -16,7 +16,7 @@ public class Cocain extends Item {
         double x = pContext.getPlayer().getX();
         double y = pContext.getPlayer().getY();
         double z = pContext.getPlayer().getZ();
-        pContext.getLevel().playSeededSound(null, x, y, z, ModSounds.COCAIN_SNIFF.get(), SoundSource.BLOCKS, 1f, 1f, 0L);
+        pContext.getLevel().playSeededSound(null, x, y, z, ModSounds.SUSPICIOUS_WHITE_POWDER_SNIFF.get(), SoundSource.BLOCKS, 1f, 1f, 0L);
         return InteractionResult.SUCCESS;
     }
 

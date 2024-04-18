@@ -1,27 +1,28 @@
 {
-  "item.smpu.worker_snack": "Worker Snack",
+  "item.smpu.english_worker_bites": "Worker Bites (EN)",
+  "item.smpu.spanish_worker_bites": "Worker Bites (ES)",
+  "item.smpu.portuguese_worker_bites": "Worker Bites (PT)",
+  "item.smpu.french_worker_bites": "Worker Bites (FR)",
   "item.smpu.cerdu_plush": "Cerdu Plush",
   "item.smpu.golden_melon": "Golden Melon Slice",
   "item.smpu.train_ticket": "Train Ticket",
-  "item.smpu.blood_amethyst_shard": "Blood Amethyst Shard",
-  "item.smpu.knockback_hammer": "Knockback Hammer",
+  "item.smpu.worker_hammer": "Worker Hammer",
   "item.smpu.xp_plush": "XP Plush",
-  "item.smpu.cocain": "Cocaine powder",
-
-  "block.smpu.blood_amethyst_block": "Blood Amethyst Block",
+  "item.smpu.suspicious_white_powder": "Suspicious White Powder",
+  "item.smpu.merffinn_plush": "Merffinn Plush",
 
   "item.minecraft.potion.effect.worker_boost": "Worker Boost",
   "item.minecraft.splash_potion.effect.worker_boost": "Splash Worker Boost",
   "item.minecraft.lingering_potion.effect.worker_boost": "Lingering Worker Boost",
 
-  "creativetab.smpu_tab": "SMP Unity",
+  "creativetab.smpu_tab": "SMPU Misc Items",
 
-  "advancement.smpu.root":"SMP Unity : Advancements",
+  "advancement.smpu.root": "SMP Unity : Advancements",
 
-  "advancement.smpu.worker_snack_eaten":"Work, work, work, work, work, work",
-  "advancement.smpu.worker_snack_eaten.desc":"Get to work.",
+  "advancement.smpu.worker_bites_eaten": "Work, work, work, work, work, work",
+  "advancement.smpu.worker_bites_eaten.desc": "Get to work.",
 
-  "advancement.smpu.get_cerdu_plush":"GYAAAAAATT",
+  "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
 
-  "sounds.smpu.cocain_sniff": "Sniffing cocaine"
+  "sounds.smpu.suspicious_white_powder_sniff": "Sniffing a Suspicious White Powder"
 }

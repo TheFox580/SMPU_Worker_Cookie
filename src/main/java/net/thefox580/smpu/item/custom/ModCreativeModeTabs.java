@@ -14,18 +14,19 @@ public class ModCreativeModeTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, SMPUnity.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> SMPU_TAB = CREATIVE_MOD_TABS.register("smpu_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.WORKER_SNACK.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ENGLISH_WORKER_BITES.get()))
                     .title(Component.translatable("creativetab.smpu_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.WORKER_SNACK.get());
+                        output.accept(ModItems.ENGLISH_WORKER_BITES.get());
+                        output.accept(ModItems.SPANISH_WORKER_BITES.get());
+                        output.accept(ModItems.PORTUGUESE_WORKER_BITES.get());
+                        output.accept(ModItems.FRENCH_WORKER_BITES.get());
                         output.accept(ModItems.CERDU_PLUSH.get());
-                        output.accept(ModItems.GOLDEN_MELON.get());
-                        output.accept(ModItems.TRAIN_TICKET.get());
-                        output.accept(ModItems.BLOOD_AMETHYST_SHARD.get());
-                        output.accept(ModBlocks.BLOOD_AMETHYST_BLOCK.get());
-                        output.accept(ModItems.KNOCKBACK_HAMMER.get());
+                        output.accept(ModItems.MERFFINN_PLUSH.get());
                         output.accept(ModItems.XP_PLUSH.get());
-                        output.accept(ModItems.COCAIN.get());
+                        output.accept(ModItems.TRAIN_TICKET.get());
+                        output.accept(ModItems.WORKER_HAMMER.get());
+                        output.accept(ModItems.SUSPICIOUS_WHITE_POWDER.get());
                     })
                     .build());
 

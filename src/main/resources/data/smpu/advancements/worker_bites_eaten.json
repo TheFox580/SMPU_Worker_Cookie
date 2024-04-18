@@ -1,13 +1,13 @@
 {
   "display": {
     "icon": {
-      "item": "smpu:worker_snack"
+      "item": "smpu:worker_bites"
     },
     "title": {
-      "translate": "advancement.smpu.worker_snack_eaten"
+      "translate": "advancement.smpu.worker_bites_eaten"
     },
     "description": {
-      "translate": "advancement.smpu.worker_snack_eaten.desc"
+      "translate": "advancement.smpu.worker_bites_eaten.desc"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "item": {
           "items": [
-            "smpu:worker_snack"
+            "smpu:worker_bites"
           ]
         }
       }

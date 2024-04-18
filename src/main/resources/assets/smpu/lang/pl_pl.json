@@ -1,27 +1,28 @@
 {
-  "item.smpu.worker_snack": "Robotnicza przekąska",
+  "item.smpu.english_worker_bites": "Ukąszenia pracowników (EN)",
+  "item.smpu.spanish_worker_bites": "Ukąszenia pracowników (ES)",
+  "item.smpu.portuguese_worker_bites": "Ukąszenia pracowników (PT)",
+  "item.smpu.french_worker_bites": "Ukąszenia pracowników (FR)",
   "item.smpu.cerdu_plush": "Cerdu Plusz",
   "item.smpu.golden_melon": "Złote Kawałek arbuza",
   "item.smpu.train_ticket": "BIlet na Pociąg",
-  "item.smpu.blood_amethyst_shard": "Odłamek Krwawego Ametystu",
-  "item.smpu.knockback_hammer": "Młot Odrzutowy",
+  "item.smpu.knockback_hammer": "Robotniczy Młot",
   "item.smpu.xp_plush": "Plusz XP",
-  "item.smpu.cocain": "Kokaina w proszku",
-
-  "block.smpu.blood_amethyst_block": "Blok Krwawego Ametystu",
+  "item.smpu.suspicious_white_powder": "Podejrzany biały proszek",
+  "item.smpu.merffinn_plush": "Merffinn Plusz",
 
   "item.minecraft.potion.effect.worker_boost": "Wzmocnienie pracownika",
   "item.minecraft.splash_potion.effect.worker_boost": "Wzmocnienie Robotnika Splash",
   "item.minecraft.lingering_potion.effect.worker_boost": "Zwiększenie stałego pracownika",
 
-  "creativetab.smpu_tab": "SMP Unity",
+  "creativetab.smpu_tab": "Różne przedmioty SMPU",
 
   "advancement.smpu.root": "SMP Unity : Postępy",
 
-  "advancement.smpu.worker_snack_eaten": "Praca, praca, praca, praca, praca, praca",
-  "advancement.smpu.worker_snack_eaten.desc": "Zabrać się do pracy.",
+  "advancement.smpu.worker_bites_eaten": "Praca, praca, praca, praca, praca, praca",
+  "advancement.smpu.worker_bites_eaten.desc": "Zabrać się do pracy.",
 
   "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
 
-  "sounds.smpu.cocain_sniff": "Wąchać kokainę"
+  "sounds.smpu.suspicious_white_powder_sniff": "Wąchanie podejrzanego białego proszku"
 }

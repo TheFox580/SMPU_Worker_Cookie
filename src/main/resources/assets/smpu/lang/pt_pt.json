@@ -1,27 +1,28 @@
 {
-  "item.smpu.worker_snack": "Lanche do Trabalhador",
+  "item.smpu.english_worker_bites": "Mordidas de Trabalhador (EN)",
+  "item.smpu.spanish_worker_bites": "Mordidas de Trabalhador (ES)",
+  "item.smpu.portuguese_worker_bites": "Mordidas de Trabalhador (PT)",
+  "item.smpu.french_worker_bites": "Mordidas de Trabalhador (FR)",
   "item.smpu.cerdu_plush": "Cerdu Pelúcia",
   "item.smpu.golden_melon": "Fatia de melancia Dourada",
   "item.smpu.train_ticket": "Bilhete de Trem",
-  "item.smpu.blood_amethyst_shard": "Fragmento de Ametista Sanguínea",
-  "item.smpu.knockback_hammer": "Martelo de repulsão",
+  "item.smpu.worker_hammer": "Martelo de Trabalhador",
   "item.smpu.xp_plush": "Pelúcia XP",
-  "item.smpu.cocain": "Cocaína em pó",
-
-  "block.smpu.blood_amethyst_block": "Bloco de Ametista Sanguínea",
+  "item.smpu.suspicious_white_powder": "Pó Branco Suspeito",
+  "item.smpu.merffinn_plush": "Merffinn Pelúcia",
 
   "item.minecraft.potion.effect.worker_boost": "Impulso do Trabalhador",
   "item.minecraft.splash_potion.effect.worker_boost": "Impulso do Trabalhador Inicial",
   "item.minecraft.lingering_potion.effect.worker_boost": "Impulso Persistente do Trabalhador",
 
-  "creativetab.smpu_tab": "SMP Unity",
+  "creativetab.smpu_tab": "Itens diversos do SMPU",
 
   "advancement.smpu.root": "SMP Unity : Proezas",
 
-  "advancement.smpu.worker_snack_eaten": "Trabalhar, trabalhar, trabalhar, trabalhar, trabalhar, trabalhar",
-  "advancement.smpu.worker_snack_eaten.desc": "Ir trabalhar.",
+  "advancement.smpu.worker_bites_eaten": "Trabalhar, trabalhar, trabalhar, trabalhar, trabalhar, trabalhar",
+  "advancement.smpu.worker_bites_eaten.desc": "Ir trabalhar.",
 
   "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
 
-  "sounds.smpu.cocain_sniff": "Cheirando cocaína"
+  "sounds.smpu.suspicious_white_powder_sniff": "Cheirando um pó branco suspeito"
 }

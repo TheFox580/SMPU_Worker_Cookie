@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "smpu:worker_snack"
+      "item": "smpu:worker_bites"
     },
     "title": {
       "translate": "advancement.smpu.root"
@@ -10,7 +10,7 @@
     "show_toast": false,
     "announce_to_chat": false,
     "hidden": true,
-    "background": "smpu:textures/item/worker_snack_background_advancement.png"
+    "background": "smpu:textures/item/worker_bites_background_advancement.png"
   },
   "criteria": {
     "requirement": {
@@ -18,7 +18,7 @@
       "conditions": {
         "item": {
           "items": [
-            "smpu:worker_snack"
+            "smpu:worker_bites"
           ]
         }
       }

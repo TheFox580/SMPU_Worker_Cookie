@@ -1,27 +1,28 @@
 {
-  "item.smpu.worker_snack": "Meryenda ng Manggagawa",
+  "item.smpu.english_worker_bites": "Kagat ng Manggagawa (EN)",
+  "item.smpu.spanish_worker_bites": "Kagat ng Manggagawa (ES)",
+  "item.smpu.portuguese_worker_bites": "Kagat ng Manggagawa (PT)",
+  "item.smpu.french_worker_bites": "Kagat ng Manggagawa (FR)",
   "item.smpu.cerdu_plush": "Cerdu Plush",
   "item.smpu.golden_melon": "Gintong Hiwa ng Pakwan",
   "item.smpu.train_ticket": "Tiket sa Tren",
-  "item.smpu.blood_amethyst_shard": "Dugo Amethyst Shard",
-  "item.smpu.knockback_hammer": "Knockback Hammer",
+  "item.smpu.worker_hammer": "Martilyo ng Manggagawa",
   "item.smpu.xp_plush": "XP Plush",
-  "item.smpu.cocain": "Cocaine powder",
-
-  "block.smpu.blood_amethyst_block": "Bloke ng Amethyst ng Dugo",
+  "item.smpu.suspicious_white_powder": "Kahina-hinalang Puting Pulbos",
+  "item.smpu.merffinn_plush": "Merffinn Plush",
 
   "item.minecraft.potion.effect.worker_boost": "Pagpapalakas ng Manggagawa",
   "item.minecraft.splash_potion.effect.worker_boost": "Splash Pagpapalakas ng Manggagawa",
   "item.minecraft.lingering_potion.effect.worker_boost": "Lumatagal na Pagpapalakas ng Manggagawa",
 
-  "creativetab.smpu_tab": "SMP Unity",
+  "creativetab.smpu_tab": "SMPU Misc Items",
 
   "advancement.smpu.root": "SMP Unity : Pagsulong",
 
-  "advancement.smpu.worker_snack_eaten": "Trabaho, trabaho, trabaho, trabaho, trabaho, trabaho",
-  "advancement.smpu.worker_snack_eaten.desc": "Magtrabaho.",
+  "advancement.smpu.worker_bites_eaten": "Trabaho, trabaho, trabaho, trabaho, trabaho, trabaho",
+  "advancement.smpu.worker_bites_eaten.desc": "Magtrabaho.",
 
   "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
 
-  "sounds.smpu.cocain_sniff": "Pagsinghot ng cocaine"
+  "sounds.smpu.suspicious_white_powder_sniff": "Pagsinghot ng kahina-hinalang Puting Pulbos"
 }

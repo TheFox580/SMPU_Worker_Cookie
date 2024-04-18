@@ -1,8 +1,8 @@
 {
   "cocain_sniff": {
-    "subtitles": "sounds.smpu.cocain_sniff",
+    "subtitles": "sounds.smpu.suspicious_white_powder_sniff",
     "sounds": [
-      "smpu:cocain_sniff"
+      "smpu:suspicious_white_powder_sniff"
     ]
   }
 }

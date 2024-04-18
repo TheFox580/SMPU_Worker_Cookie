@@ -6,8 +6,8 @@ import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.enchantment.Enchantment;
 import net.minecraft.world.item.enchantment.Enchantments;
 
-public class KnockbackHammerItem extends SwordItem {
-    public KnockbackHammerItem(Tier pTier, int pAttackDamageModifier, float pAttackSpeedModifier, Properties pProperties) {
+public class WorkerHammerItem extends SwordItem {
+    public WorkerHammerItem(Tier pTier, int pAttackDamageModifier, float pAttackSpeedModifier, Properties pProperties) {
         super(pTier, pAttackDamageModifier, pAttackSpeedModifier, pProperties);
     }
 

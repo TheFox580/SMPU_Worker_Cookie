@@ -12,7 +12,7 @@ public class ModSounds {
     public static final DeferredRegister<SoundEvent>  SOUND_EVENTS =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, SMPUnity.MOD_ID);
 
-    public static final RegistryObject<SoundEvent> COCAIN_SNIFF = registerSoundEvents("cocain_sniff");
+    public static final RegistryObject<SoundEvent> SUSPICIOUS_WHITE_POWDER_SNIFF = registerSoundEvents("suspicious_white_powder_sniff");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(SMPUnity.MOD_ID, name)));

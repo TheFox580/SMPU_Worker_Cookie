@@ -1,27 +1,28 @@
 {
-  "item.smpu.worker_snack": "Collation de Travailleur",
+  "item.smpu.english_worker_bites": "Gâteaux de Travailleur (EN)",
+  "item.smpu.spanish_worker_bites": "Gâteaux de Travailleur (ES)",
+  "item.smpu.portuguese_worker_bites": "Gâteaux de Travailleur (PT)",
+  "item.smpu.french_worker_bites": "Gâteaux de Travailleur (FR)",
   "item.smpu.cerdu_plush": "Peluche Cerdu",
   "item.smpu.golden_melon": "Tranche de Melon d'eau Dorée",
   "item.smpu.train_ticket": "Billet de Train",
-  "item.smpu.blood_amethyst_shard": "Éclat d'Améthyste Sanglant",
-  "item.smpu.knockback_hammer": "Marteau de Knockback",
+  "item.smpu.worker_hammer": "Marteau d'Ouvrier",
   "item.smpu.xp_plush": "Peluche d'XP",
-  "item.smpu.cocain": "Cocaïne en poudre",
-
-  "block.smpu.blood_amethyst_block": "Bloc d'Améthyste Sanglant",
+  "item.smpu.suspicious_white_powder": "Poudre Blanche Mystérieuse",
+  "item.smpu.merffinn_plush": "Peluche Merffinn",
 
   "item.minecraft.potion.effect.worker_boost": "Boost de Travailleur",
   "item.minecraft.splash_potion.effect.worker_boost": "Boost de Travailleur Jetable",
   "item.minecraft.lingering_potion.effect.worker_boost": "Boost de Travailleur Persistant",
 
-  "creativetab.smpu_tab": "SMP Unity",
+  "creativetab.smpu_tab": "SMPU Misc Items",
 
   "advancement.smpu.root": "SMP Unity : Progrès",
 
-  "advancement.smpu.worker_snack_eaten": "Travaille, travaille, travaille, travaille, travaille, travaille",
-  "advancement.smpu.worker_snack_eaten.desc": "Travaillez.",
+  "advancement.smpu.worker_bites_eaten": "Travaille, travaille, travaille, travaille, travaille, travaille",
+  "advancement.smpu.worker_bites_eaten.desc": "Travaillez.",
 
   "advancement.smpu.get_cerdu_plush": "GYAAAAAATT",
 
-  "sounds.smpu.cocain_sniff": "Reniflements de cocaïne"
+  "sounds.smpu.suspicious_white_powder_sniff": "Reniflements de Poudre Blanche Mystérieuse"
 }

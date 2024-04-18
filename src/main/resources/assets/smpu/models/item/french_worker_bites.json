@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "smpu:item/cocain"
+    "layer0": "smpu:item/french_worker_bites"
   }
 }
